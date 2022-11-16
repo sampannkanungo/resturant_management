@@ -1,1 +1,1 @@
-# resturant_management
+# restaurant_management
